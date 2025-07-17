@@ -1,3 +1,3 @@
 # ST-THGT-HUE
 Source code THGT huế - CPU mới kết nối với app cũ
-- [] Write code
+- check kết nối trung tâm, đang chạy thì mất kết nối làm đơ màn hình
